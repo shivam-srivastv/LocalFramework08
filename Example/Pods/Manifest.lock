@@ -1,0 +1,16 @@
+PODS:
+  - LocalFramework08 (0.1.0)
+
+DEPENDENCIES:
+  - LocalFramework08 (from `../`)
+
+EXTERNAL SOURCES:
+  LocalFramework08:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LocalFramework08: c26596788ffdd4c95f042510ebc82cdeba66d3d2
+
+PODFILE CHECKSUM: a012c7ec1d74391a0dd2b413638ea4ba80815e0f
+
+COCOAPODS: 1.10.1
