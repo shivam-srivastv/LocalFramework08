@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LocalFramework08'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'This is a dummy pod LocalFramework4 for poc purpose.'
   s.description      = "This is a description for dummy pod LocalFramework4 for poc purpose."
   s.homepage         = 'https://github.com/shivam-srivastv/LocalFramework08'
